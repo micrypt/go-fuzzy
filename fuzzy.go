@@ -16,6 +16,7 @@ func (p StringSlice) Len() int {
 }
 
 func (p StringSlice) Less(i, j int) bool {
+	scoreA := strings.Split(p[i])
 }
 
 func (p StringSlice) Swap(i, j int) {
