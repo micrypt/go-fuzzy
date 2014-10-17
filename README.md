@@ -1,4 +1,4 @@
 go-fuzzy
 ========
 
-Simple fuzzy string searching for Go.
+Simple fuzzy string searching for Go [WIP].
